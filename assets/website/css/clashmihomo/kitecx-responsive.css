@@ -1722,9 +1722,11 @@
 
 
 
-.main-header__logo h1, .main-header__logo span {font-size: 2rem;}
-.main-menu-wrapper__bottom {
-    padding-left: 400px;
+.main-header__logo h1 {font-size: 2rem;}
+@media only screen and (min-width: 1200px) and (max-width: 1800px) {
+    .main-menu-wrapper__bottom {
+        padding-left: 400px;
+    }
 }
 
 
