@@ -7664,5 +7664,10 @@ ul {
 }
 
 .main-header__logo h1, .main-header__logo span {font-size: 2rem;font-weight: bold;color: #333;}
+@media only screen and (min-width: 1200px) and (max-width: 1800px) {
+    .main-menu-wrapper__bottom {
+        padding-left: 400px;
+    }
+}
 .xcblog-blog-list .item {margin-bottom: 1.5rem;}
 .xcblog-blog-list .item h3 {font-size: 1.5rem;}
