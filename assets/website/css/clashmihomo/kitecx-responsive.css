@@ -1722,8 +1722,10 @@
 
 
 
-
-
+.main-header__logo h1, .main-header__logo span {font-size: 2rem;}
+.main-menu-wrapper__bottom {
+    padding-left: 400px;
+}
 
 
 
